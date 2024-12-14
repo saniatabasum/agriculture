@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+.head{
+    border:solid;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    margin-left: 50px;
+}
+.left{
+    margin-left: 450px;
+    line-height: 40px;
+}
+div ul li{
+    display: inline-flex;
+   margin-left: 30px;
+}
+#login{
+    margin-right: 30px;
+    height: 30px;
+    margin-top: 20px;
+}
+.content{
+    margin-top: 20px;
+    border: solid;
+    height: 500px;
+}
+#top{
+    text-align: center;
+}
+.view{
+    display: flex;
+}
+#pic{
+    height: 200px;
+    width: 250px;
+}
+.chem{
+    margin-top: 20px;
+    border: solid;
+    height: 500px;
+}
+.prdts{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 30px;
+}
+.two{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 100px;
+   margin-top: 50px;
+}
+#pict{
+    height: 150px;
+    width: 250px;
+    margin-left: 100px;
+
+}
+#view{
+   position: relative;
+   float: right;
+   margin-right: 50px;
+   margin-top: 20px;
+   height: 30px;
+   width: 100px;
+}
+.section{
+    margin-top: 20px;
+    border: solid;
+    height: 500px;
+}
